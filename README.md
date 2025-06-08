@@ -1,2 +1,2 @@
 # Discord-Image
-Discord+ Theme in Vencord Image Save
+ClearVision Theme in Vencord Image Save
